@@ -1,3 +1,5 @@
+print("######SEJA BEM VINDO AO PROGRAMA DE VENDAS DE FRUTA [MELANCIA]")
+
 def calcular_valor_venda(peso, preco_por_kg):
     """Função para calcular o valor total da venda de melancia."""
     return peso * preco_por_kg
