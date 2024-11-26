@@ -25,6 +25,7 @@ def main():
         main()
     else:
         print("Obrigado por usar o sistema de vendas de melancia!")
+print ("Obrigado por comprar conosco! Volte sempre!")
 
 if __name__ == "__main__":
     main()
